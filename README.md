@@ -313,6 +313,10 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [What Happens When Stress Runs in Your Team](https://ivonahirschi.medium.com/what-happens-when-stress-runs-in-your-team-eb7108df566a)
 
 
+# AI & Automation
+
+- [AI Growth Agents for Marketers](https://github.com/thaolst/ai-growth-agents-for-marketers) - Open-source AI agents + prompts for growth marketing: campaign briefs, A/B test analysis, campaign planning, automation scripts, and more. Built from real fintech campaigns in Southeast Asia. Bilingual (VI/EN). Free.
+
 # Tools
 
 - [The 2021 Marketing Tech Stack](https://www.intercom.com/blog/the-ultimate-marketing-technology-stack) - Recommended stack from Intercom
